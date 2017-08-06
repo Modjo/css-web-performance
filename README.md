@@ -7,6 +7,6 @@ In my case, in a small project, I went from a 44ko file to a 7ko file, which is 
 
 You can download the dependencies with :
 
-````npm install gulp gulp-sass gulp-sourcemaps gulp-postcss postcss-uncss uncss cssnano gulp-notify -D```
+````npm install gulp gulp-sass gulp-sourcemaps gulp-postcss postcss-uncss uncss cssnano gulp-notify -D````
 
 :rocket: Enjoy ! :+1:
